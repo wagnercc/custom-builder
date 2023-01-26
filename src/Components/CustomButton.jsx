@@ -2,7 +2,6 @@ import React from "react";
 import { Builder } from "@builder.io/react";
 
 export const CustomButton = (props) => {
-    console.log('props', props)
 	return (
 		<button
 			style={{
